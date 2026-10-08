@@ -56,6 +56,11 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 containerColor = colorResource(R.color.card_0_bg)
             )
         ) {
+            Row(
+                modifier = Modifier.fillMaxWidth()
+            ) {
+
+            }
 
         }
     }
