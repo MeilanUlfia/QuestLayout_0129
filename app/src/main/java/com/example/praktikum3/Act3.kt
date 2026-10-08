@@ -71,6 +71,9 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 Spacer(
                     modifier = Modifier.width(30.dp)
                 )
+                Column {
+
+                }
 
             }
 
